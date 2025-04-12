@@ -5,6 +5,8 @@ This clearly shows how strong my frontend designing skills are working with the 
 
 link : https://www.figma.com/design/ZHhHQWMnTDKPR2XiqWiMo1/Untitled?node-id=1-303&t=ZsYw46OVvevYla0Y-0
 
+This design is not complete at the moment of committing this repository but it will be published very soon.
+
 Developer Name : Adesh kesharwani
 Age : 23 
 Technology/Frameworks used : HTML/CSS/JavaScript/Bootstrap.
